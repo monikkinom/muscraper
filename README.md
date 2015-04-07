@@ -1,3 +1,3 @@
 # Mumbai University Results Scraper
 
-Because the way Mumbai Univeristy displays results is ..
+Because the way Mumbai University displays results is ..
